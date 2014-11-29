@@ -1,0 +1,13 @@
+
+.ChooseLanguagePanel {
+    text-align: end;
+}
+
+#chooseLanguage {
+    display: inline;
+}
+
+.WelcomeMessage {
+    text-align: center;
+    font-size: 2em;
+}
